@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nitin 👋
 
-<!--
-**nitinpy-hub/nitinpy-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Data Analyst | Data Engineer | 6+ Years Experience**  
+📍 Pune, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, PySpark
+- **Platforms:** Databricks, Snowflake, Azure (ADLS Gen2, Key Vault, DevOps)
+- **ETL Tools:** Alteryx, Alteryx One, Dell Boomi
+- **BI Tools:** Tableau, Power BI
+- **Others:** Git, Excel, Alteryx Server Migration
+
+---
+
+## 📂 Featured Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Alteryx Migration Tools](https://github.com/nitinpy-hub) | Complexity scanner, DB extractor, macro scanner for Alteryx → Alteryx One migration | Python |
+---
+
+## 📊 Experience Highlights
+- 🔹 Senior consultant @ **Infocepts** (Client: PetSmart)
+- 🔹 Senior Software Engineer @ **Synechron** (Client: UBS)
+- 🔹 Data Engineer @ **Austrax Technologies**
+- 🔹 Data Analyst @ **Brillio**
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nitin-patil-219962224/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:pnitin.ds@gmail.com)
